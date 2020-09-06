@@ -1,10 +1,12 @@
 # TamagotchiSharp
 Concept of the game, inspired by the original Tamagotchi, for cmd.exe with an advanced graphics engine
 
-**Authors:**
+## Authors
   * Adam Bajguz
   * Magalenda Kalisz
   * Paweł Gryc
+  
+## Screenshots
 
 ![screenshot](https://raw.githubusercontent.com/adambajguz/TamagotchiSharp/master/screenshot.png)
 
