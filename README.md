@@ -6,6 +6,8 @@ Concept of the game, inspired by the original Tamagotchi, for cmd.exe with an ad
   * Magalenda Kalisz
   * Paweł Gryc
 
+![screenshot](https://raw.githubusercontent.com/adambajguz/TamagotchiSharp/master/screenshot.png)
+
 ## License
 ```
 /* Copyright (C) Adam Bajguz, Magdalena Kalisz & Paweł Gryc - All Rights Reserved
